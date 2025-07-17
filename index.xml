@@ -2,7 +2,7 @@
 <level>
   <owner>Fistachka</owner>
   <repo>time</repo>
-  <version>v1.0.3</version>
+  <version>v1.0.4</version>
   <next number="1" owner="fistachka" repo="deer"/>
   <readme>
     <ru>138df17f646f5cc9e498477ddaa94aaedc3604bd044e74126381f1377702db9f</ru>
@@ -46,7 +46,7 @@
   </exercise>
   <exercise number="4">
     <scale>major</scale>
-    <bpm>80</bpm>
+    <bpm>102</bpm>
     <lowestNote>1</lowestNote>
     <tonalities>3</tonalities>
     <video name="4t.mp4" size="1864284" type="video/mp4" volume="0.5">f56a36c197bd48fad2cca8ac37a12192c2fc5349a55090e9fda9e0aa7828af36</video>
@@ -60,7 +60,7 @@
   </exercise>
   <exercise number="5">
     <scale>major</scale>
-    <bpm>80</bpm>
+    <bpm>102</bpm>
     <lowestNote>1</lowestNote>
     <tonalities>3</tonalities>
     <video name="5t.mp4" size="1882998" type="video/mp4" volume="0.5">8e6241846d5d8ffa57da86288edf8d9288da013f30407bafd09743a106f7269a</video>
@@ -74,7 +74,7 @@
   </exercise>
   <exercise number="6">
     <scale>major</scale>
-    <bpm>80</bpm>
+    <bpm>102</bpm>
     <lowestNote>1</lowestNote>
     <tonalities>3</tonalities>
     <video name="6t.mp4" size="1646099" type="video/mp4" volume="0.5">90f36ea66065e9af7ee097446ebc9becefe46bac63c4651c00cf0b0cfb116180</video>
@@ -88,7 +88,7 @@
   </exercise>
   <exercise number="7">
     <scale>major</scale>
-    <bpm>80</bpm>
+    <bpm>102</bpm>
     <lowestNote>1</lowestNote>
     <tonalities>3</tonalities>
     <video name="7t.mp4" size="1460310" type="video/mp4" volume="0.5">34c7830c85183fd9f4c10a0ff0c3570e47cf189bbbb653c3409dada735c2254a</video>
@@ -102,7 +102,7 @@
   </exercise>
   <exercise number="8">
     <scale>major</scale>
-    <bpm>80</bpm>
+    <bpm>102</bpm>
     <lowestNote>1</lowestNote>
     <tonalities>3</tonalities>
     <video name="8t.mp4" size="1364974" type="video/mp4" volume="0.5">7401ab1eb247e10221019a017f717858d2412601fff31ff3467b0fb2d55fb16b</video>
@@ -116,7 +116,7 @@
   </exercise>
   <exercise number="9">
     <scale>major</scale>
-    <bpm>80</bpm>
+    <bpm>102</bpm>
     <lowestNote>1</lowestNote>
     <tonalities>3</tonalities>
     <video name="9t.mp4" size="2071997" type="video/mp4" volume="0.5">87c2c060d25e7aaa95973bb6268dcb794f98b0438bfcb7b6b44eee883acff6dd</video>
@@ -130,7 +130,7 @@
   </exercise>
   <exercise number="10">
     <scale>major</scale>
-    <bpm>80</bpm>
+    <bpm>102</bpm>
     <lowestNote>1</lowestNote>
     <tonalities>3</tonalities>
     <video name="10t.mp4" size="2119803" type="video/mp4" volume="0.5">c2de3214a8b85ddd9a303803605354be92a4ebdfc1c84d25ed90bd511fe27db3</video>
@@ -144,7 +144,7 @@
   </exercise>
   <exercise number="11">
     <scale>major</scale>
-    <bpm>80</bpm>
+    <bpm>102</bpm>
     <lowestNote>1</lowestNote>
     <tonalities>3</tonalities>
     <video name="11t.mp4" size="1585690" type="video/mp4" volume="0.5">93f125078bc011192faa3a53df046c02c2459831b31f23a68c6848833b1d6d3c</video>
@@ -158,7 +158,7 @@
   </exercise>
   <exercise number="12">
     <scale>major</scale>
-    <bpm>80</bpm>
+    <bpm>102</bpm>
     <lowestNote>1</lowestNote>
     <tonalities>3</tonalities>
     <video name="12t.mp4" size="1627697" type="video/mp4" volume="0.5">3626eeda3bd26e9356a445ed94c132ec0625fae1fb434d3cf320e659490dafd1</video>
