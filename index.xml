@@ -2,11 +2,11 @@
 <level>
   <owner>Fistachka</owner>
   <repo>time</repo>
-  <version>v1.0.8</version>
+  <version>v1.0.9</version>
   <next number="1" owner="fistachka" repo="deer"/>
   <readme>
-    <ru>138df17f646f5cc9e498477ddaa94aaedc3604bd044e74126381f1377702db9f</ru>
-    <en>7545404169e5ea4f34f68e7c985e57fa05f89e6fe98752385d7266b7c028918b</en>
+    <ru>4e21c10fcc4cdc30f23ca5c87588a700dbbb614aef051487e5467104db1fbf03</ru>
+    <en>e28bf55a32a00e5b644028c04507d5c728d56fa4ce1ad5fbbd01c5c2dead5c62</en>
   </readme>
   <license>b1b99f5538d1fd3702219bff50c665196dfa42f6ee755c37fe41a6178d6bc6e5</license>
   <exercise number="1">
