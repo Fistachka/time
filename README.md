@@ -24,7 +24,9 @@
 
 
 <iframe width="315" height="560" src="https://www.youtube.com/embed/2dVaQj21DZo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pmpYoYa7fDg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe><br><br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pmpYoYa7fDg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
+
+Предыдущий урок: stolbitsa.com/fistachka/t-octaves<br><br>
 
 <span id="en"><a href='#ru'>🇷🇺</a> &nbsp;&nbsp;&nbsp;<a href='#en'>🇺🇸</a> &nbsp;&nbsp;&nbsp;</span><br><br>
 
@@ -53,5 +55,7 @@ We will have one of the three options:
 Try to guess which option is playing!
 
 <iframe width="315" height="560" src="https://www.youtube.com/embed/fubWkW9w2JM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yy3AGyctFak" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe><br><br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yy3AGyctFak" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
+
+Previous lesson: stolbitsa.com/fistachka/t-octaves<br><br>
 
