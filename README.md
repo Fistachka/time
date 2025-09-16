@@ -1,7 +1,6 @@
 <span id="ru"><a href='#ru'>🇷🇺</a> &nbsp;&nbsp;&nbsp;<a href='#en'>🇺🇸</a> &nbsp;&nbsp;&nbsp;</span><br><br>
 
 
-![stopwatch-3699314_1280](https://github.com/user-attachments/assets/f32b3d5a-c443-47c6-903b-14765f5f0ac0)
 # Октава и Унисон - гармонический вариант
 
 В музыке, если ноты звучат одна за другой - это называется мелодическое звучание. А если они звучат одновременно - то гармоническое.
@@ -30,7 +29,7 @@
 
 <span id="en"><a href='#ru'>🇷🇺</a> &nbsp;&nbsp;&nbsp;<a href='#en'>🇺🇸</a> &nbsp;&nbsp;&nbsp;</span><br><br>
 
-![stopwatch-3699314_1280](https://github.com/user-attachments/assets/f32b3d5a-c443-47c6-903b-14765f5f0ac0)
+
 # Octave and Unison - harmonic
 
 In music theory when you play two notes separately in time, one after the other, it is called a melodic interval.
