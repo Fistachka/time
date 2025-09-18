@@ -30,7 +30,7 @@
 <span id="en"><a href='#ru'>🇷🇺</a> &nbsp;&nbsp;&nbsp;<a href='#en'>🇺🇸</a> &nbsp;&nbsp;&nbsp;</span><br><br>
 
 
-# Octave and Unison - harmonic
+# Octave and Unison - harmonic version
 
 In music theory when you play two notes separately in time, one after the other, it is called a melodic interval.
 
